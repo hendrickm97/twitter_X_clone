@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6f8967f7-c016-4be5-bd37-ac14cfc43f85" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/setup.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/setup.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/.idea/setup.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/asgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/twitter/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/twitter/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/twitter/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/twitter/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/twitter/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/twitter/templates/base.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/twitter/templates/home.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/twitter/templates/navbar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/twitter/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/twitter/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/twitter/views.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2hYboHbckbONjmG7rcVLQRLEA3e" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "setup",
+    "last_opened_file_path": "C:/Users/HenksPc/Desktop/Projetos-ebac/twitter_X_clone/setup/setup",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6f8967f7-c016-4be5-bd37-ac14cfc43f85" name="Changes" comment="" />
+      <created>1717774130362</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1717774130362</updated>
+    </task>
+    <servers />
+  </component>
+</project>

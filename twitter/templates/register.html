@@ -1,0 +1,18 @@
+{% extends 'base.html' %}
+
+
+{% block content %}
+
+<div class= "col-md-6 offset-md-3">
+<h1> Cadastre-se </h1>
+</br>
+</br>
+<form method="POST">
+    {% csrf_token %}
+    {{ form.as_p }}
+    <button type="submit" class="btn btn-primary">Cadastre-se</button>
+</br>
+</form>
+</div>
+
+{% endblock  %}
